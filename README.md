@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-> Full Stack Developer
+> Machine Learning Practitioner
 
 **Software Engineer** passionate about technology, focused in building effective and scalabe solution with agile methods being 1x **Scrum** certified. 
 Additionally, I have soft skills such as communication, adaptability, time management and more.
