@@ -51,5 +51,5 @@ Additionally, I have soft skills such as communication, adaptability, time manag
 #### 📫 **Let's Connect:**
 - 🔗 **LinkedIn:** www.linkedin.com/in/mateus-gomesc
 
-- 📧 **E-mail:** [mateusgomes.dec@gmail.com](mailto:mateusgomes.dec@gmail.com)
+- 📧 **E-mail:** [mateusgomesdc@hotmail.com](mailto:mateusgomesdc@hotmail.com)
 
