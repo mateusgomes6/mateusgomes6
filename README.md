@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-> Machine Learning Practitioner
+> Machine Learning Engineer
 
-**Software Engineer** passionate about technology, focused in building effective and scalabe solution with agile methods being 1x **Scrum** certified. 
+**Machine Learning/IA Engineer** with experience in ML and datas, passionate about technology, focused in building effective and scalabe solution with agile methods being 1x **Scrum** certified. 
 Additionally, I have soft skills such as communication, adaptability, time management and more.
 
 ###
